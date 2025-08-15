@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Apoorv Namdeo</h1>
 <h3 align="center">Crafting Code: From Algorithms to Full-Stack Solutions</h3>
 
+- 📫 How to reach me **apoorvnamdeo1234@gmail.com**
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apoorvnamdeo1234@gmail.com) 
 
